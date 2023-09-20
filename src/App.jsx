@@ -1,13 +1,20 @@
 import { useState } from 'react'
 import './App.css'
+import Navbar from './components/1. Header component/navbar'
+import Footer from './components/3. Footer comp/footer'
+import Projects from './components/2. Content comp/Projects component/projects'
+import About from './components/2. Content comp/About component/about'
 
-function App() {
+const App = () =>  {
+
+
 
   return (
     <>
-    
-    hallais
-
+    <Navbar />
+    <About />
+    <Projects />
+    <Footer />
 
     </>
   )
