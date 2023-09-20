@@ -6,6 +6,7 @@ const Navbar = () => {
     <div>
       <ul className = "navbar">
         <li>Home</li>
+        <li>About</li>
         <li>Projects</li>
         <li>Contact</li>
       </ul>
