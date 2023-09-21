@@ -3,17 +3,7 @@ import "./projects.css";
 
 
 const Projects = () => {
-    const [isPlaying1, setIsPlaying1] = useState(false);
-    const [isPlaying2, setIsPlaying2] = useState(false);
-    // ... add more for each project
-  
-    const toggleGif1 = () => {
-      setIsPlaying1(!isPlaying1);
-    };
-  
-    const toggleGif2 = () => {
-      setIsPlaying2(!isPlaying2);
-    };
+    
     return (
         <div>
         <h1>Projects</h1>
