@@ -1,0 +1,49 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer h2 {
+    margin-bottom: 15px;
+  }
+  
+  /* Footer content layout */
+  .footer-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* Contact info */
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+  
+  .contact-info p a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .contact-info p a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Additional space */
+  .additional-space {
+    /* Additional styles can go here */
+  }
+  
