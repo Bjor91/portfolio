@@ -6,7 +6,7 @@ const About = () => {
         <div>
         <h1>About me</h1>
         <div className = "about-card">
-        <img src="public\gifs\images\uteBjornCropped.jpg" alt="Avatar" />
+        <img src="public\images\uteBjornCropped.jpg" alt="Picture of me" />
         <div className = "about-card-text">
         <p>Hi, I'm Bjørn!  I'm a versatile individual with a background that encompasses both the creative and technical worlds. I'm currently pursuing a Bachelor's degree in Datatechnology at the University of Bergen, focusing on topics like programming, system development, and problem-solving. Although I started my academic journey in the world of Music Production, I've found my groove in the tech field.</p>
         <p>I love diving into code just as much as I love exploring the countryside on my road bike, traversing the backcountry while skiing or getting lost in a video game. </p>
