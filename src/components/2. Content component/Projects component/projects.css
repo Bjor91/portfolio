@@ -1,4 +1,22 @@
 .projects {
     display: flex;
     flex-wrap: wrap;
+    gap: 50px;
+}
+
+.projects img {
+    width: 100%;
+    height: auto;
+}
+
+
+.project1, .project2, .project3, .project4, .project5, .project {
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (min-width: 768px) {
+    .myGif {
+        max-width: desiredMaxWidthpx;
+    }
 }
