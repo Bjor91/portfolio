@@ -22,7 +22,7 @@ const Projects = () => {
                 </div>
 
                 <div className="project2">
-                    <p> The backend of the SaveIt, set up using Java with the Spring Boot framework. Exposes a set of APIs that the web-app can call upon to retrieve data</p>
+                    <p> The backend of the SaveIt, set up using Java with the Spring Boot framework. Exposes a set of APIs that the web-app can call upon to retrieve data.</p>
                     
                     <ClickableGif gifSrc="/gifs/2.gif" thumbnailSrc="/gifs/2.png" />
 
