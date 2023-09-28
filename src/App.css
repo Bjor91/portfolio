@@ -4,17 +4,7 @@
   padding: 2rem;
   text-align: center;
 }
-/* Media query for tablet devices */
-@media (max-width: 768px) {
-  #root {
-    padding: 1.5rem; /* You may want to adjust the padding for smaller devices */
-  }
-}
-@media (max-width: 480px) {
-  #root {
-    padding: 1rem; /* Adjust the padding further for smaller screens */
-  }
-}
+
 
  #projects-section, #footer-section{
   margin-top: 300px;
