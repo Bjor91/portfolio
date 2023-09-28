@@ -12,13 +12,16 @@ const App = () =>  {
   return (
     <>
     <Navbar />  
+
     <div id="about-section">
         <About />
       </div>
-      <div id="projects-section">
+
+    <div id="projects-section">
         <Projects />
       </div>
-      <div id="footer-section">
+      
+    <div id="footer-section">
         <Footer />
       </div>
 
