@@ -6,13 +6,15 @@
 
 .projects img {
     width: 100%;
+    max-width: 800px;
     height: auto;
 }
 
 
-.project1, .project2, .project3, .project4, .project5, .project {
+.project1, .project2, .project3, .project4, .project5 {
     display: flex;
     flex-direction: row;
+    gap: 20px;
 }
 
 @media screen and (min-width: 768px) {

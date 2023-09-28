@@ -17,8 +17,8 @@ const ClickableGif = ({ gifSrc, thumbnailSrc }) => {
             top: '50%', 
             left: '50%', 
             transform: 'translate(-50%, -50%)',
-            fontSize: '20em', 
-            color: 'white' 
+            fontSize: '10em', 
+            color: 'black',
           }}
         >
           &#9654; {/* Unicode character for the play symbol */}
