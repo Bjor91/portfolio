@@ -17,13 +17,12 @@ const Projects = () => {
                     
                     <ClickableGif gifSrc="/gifs/1.gif" thumbnailSrc="/gifs/1.png" />
                     <p> My contribution to a coding-challenge about saving. 
-                        
                         This React application provides an interface to monitor and manage financial transactions and account details with dynamic time filtering and category management. 
                     </p>  
                 </div>
 
                 <div className="project2">
-                    <p> The backend of the SaveIt, set up using Spring Boot.</p>
+                    <p> The backend of the SaveIt, set up using Java with the Spring Boot framework. Exposes a set of APIs that the web-app can call upon to retrieve data</p>
                     
                     <ClickableGif gifSrc="/gifs/2.gif" thumbnailSrc="/gifs/2.png" />
 
@@ -31,7 +30,7 @@ const Projects = () => {
 
                 <div className="project3">
                     <ClickableGif gifSrc="/gifs/3.gif" thumbnailSrc="/gifs/3.png" />
-                    <p> Group project for a system-development course. Fun game where your goal is to survive as long as possible, reaching the highest level.</p>
+                    <p> Group project for a system-development course. Kill monsters, gain experience and use experience to upgrade ability. Fun game where your goal is to survive as long as possible, reaching the highest level.</p>
                 </div>
 
                 {/* 
